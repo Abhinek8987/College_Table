@@ -1,0 +1,42 @@
+
+body{
+    width:100vw;
+    height:100vh;
+}
+.facultys{
+    position:relative;
+    bottom:5px;
+}        .h5{
+    position:fixed;
+    bottom:10px;
+    left:500px;
+    color: red;
+    /* margin: 30px; */
+}
+.Faculty{
+    position:absolute;
+    bottom:25px;
+    
+}
+
+.h0{
+    position:fixed;
+    left:1040px;
+}
+.h1{
+    position: absolute;
+    left:870px;
+}
+.h2{
+    position: fixed;
+    left:560px;
+}
+.h4{
+    position:fixed;
+    
+    left:200px;
+    /* left:250px; */
+}
+body{
+     background-color: rgb(250, 249, 246)
+}
